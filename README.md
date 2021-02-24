@@ -9,7 +9,7 @@
 ## Introduction
 
 ## Objectives
-Using data from JHU and 1point3 acres to create a spatio-temporal prediction model for COVID-19 prediction of new cases and death on a county level/state USA.
+Using data from JHU and 1point3 acres to create a spatio-temporal prediction model for COVID-19 prediction of new cases and death on a county level.
 
 ## Methods and Implementation
 
