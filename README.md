@@ -9,8 +9,9 @@
 ## Introduction
 Following the first cases of Coronavirus disease 2019 (COVID-19) in Wuhan-China, the Severe Acute Respiratory Coronavirus 2 (SARS-CoV-2) has spread worldwide to over 190 countries or territories (). This extremely contagious virus has been responsible for the ongoing pandemic that has claimed over two million lives around the world (). As of February 24th 2021, the US have reported 28,297,193 confirmed cases and 503,777 deaths (). As the COVID-19 pandemic continues, it is imperative to create bioinformatic tools that provide timely spatio-temporal forecast of the number of cases at local, regional and national level as a decision-making tool for public health professionals and state authorities.
 ## Objectives
-The aim of this study is to propose a spatiotemporal epidemiological predictive model of COVID-19 infections at local, regional and national level to generate a forecast of COVID-19 daily cases and deaths in the United States of America. Using data from JHU and 1point3 acres to create a spatio-temporal prediction model for COVID-19 prediction of new cases and death on a county level.
+The aim of this study is to propose a spatiotemporal epidemiological predictive model of COVID-19 infections at local, regional and national level to generate a forecast of COVID-19 daily cases and deaths in the United States of America. 
 
 ## Methods and Implementation
+Data was extracted from 1point3acres.com website which is a public database that uses epidemiologic and spatial data from the John Hopkins University coronavirus Resource Center. The R-package ‘surveillance’ was used to create a temporal and spatio-temporal prediction model of new cases and death on a county level.
 
 ## Results 
