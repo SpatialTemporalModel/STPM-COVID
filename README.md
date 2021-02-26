@@ -16,6 +16,6 @@ The aim of this study is to propose a spatiotemporal epidemiological predictive 
 ## Methods and Implementation
 Data was extracted from 1point3acres.com website which is a public database that uses epidemiologic and spatial data from the John Hopkins University coronavirus Resource Center. The R-package ‘caret’ was used to create a temporal and spatio-temporal prediction model of new cases and death on a county level. Regression was performed using the machine learning algorithm ‘Spatial Random Forest’ to create spatio-temporal prediction models.
 
-
+Additionally, Diffusion Convolutional Recurrent Neural Network (DCRNN, https://github.com/liyaguang/DCRNN) was explored using similar database. The model can effectively utilize spatial-temporal data by accounting for spatial dependencies using diffusion convolutional layers and by accounting for temporal dependecies using recurrent layers. Adjacency matrix was calculated by each county's representative geo-coordinates, i.e. longitude and latitude and their pair-wise distance. Tensorflow v1.4 was used to apply the model to train and evaluate COVID-19 data. 
 
 ## Results 
