@@ -1,0 +1,980 @@
+case_id,confirmed_date,state_name,county_name,Full Address,Latitude,Longitude,confirmed_count,death_count
+1,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+2,########,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+3,########,AZ,Maricopa,AZ Maricopa,33.2917968,-112.4291464,1,0
+4,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,1,0
+5,########,CA,Orange,CA Orange,33.7879139,-117.8531007,1,0
+6,########,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+7,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,1,0
+8,2/1/2020,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,1,0
+9,2/2/2020,CA,San Benito,CA San Benito,36.5760883,-120.9876321,2,0
+10,2/2/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,1,0
+11,2/5/2020,WI,Dane,WI Dane,43.2505472,-89.5015088,1,0
+12,########,Wuhan Evacuee,Unassigned,Wuhan Evacuee Unassigned,30.592849,114.305539,1,0
+13,########,Wuhan Evacuee,Unassigned,Wuhan Evacuee Unassigned,30.592849,114.305539,1,0
+14,########,Wuhan Evacuee,Unassigned,Wuhan Evacuee Unassigned,30.592849,114.305539,1,0
+16,########,CA,Humboldt,CA Humboldt,40.7450055,-123.8695086,1,0
+17,########,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,1,0
+20,########,Diamond Princess,Riverside,Diamond Princess Riverside,33.9806005,-117.3754942,1,0
+21,########,Diamond Princess,Sonoma,Diamond Princess Sonoma,38.291859,-122.4580356,1,0
+23,########,CA,Solano,CA Solano,38.3104969,-121.9017954,1,0
+26,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,1,0
+28,########,OR,Washington,OR Washington,47.7510741,-120.7401385,1,0
+29,########,WA,King,WA King,47.5480339,-121.9836029,1,0
+30,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+31,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,0,1
+32,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,1,0
+33,########,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+34,########,WA,King,WA King,47.5480339,-121.9836029,3,0
+35,########,WA,King,WA King,47.5480339,-121.9836029,0,2
+36,3/1/2020,CA,Alameda,CA Alameda,37.7798721,-122.2821855,1,0
+37,3/1/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,3,0
+38,3/1/2020,CA,Solano,CA Solano,38.3104969,-121.9017954,1,0
+40,3/1/2020,FL,Hillsborough,FL Hillsborough,27.9903597,-82.3017728,1,0
+41,3/1/2020,FL,Manatee,FL Manatee,28.7904427,-82.6131406,1,0
+42,3/1/2020,NY,New York,NY New York,40.7127753,-74.0059728,1,0
+43,3/1/2020,NY,Oneida,NY Oneida,43.0925684,-75.6512931,2,0
+44,3/1/2020,OR,Washington,OR Washington,47.7510741,-120.7401385,1,0
+45,3/1/2020,RI,Providence,RI Providence,41.8239891,-71.4128343,2,0
+46,3/1/2020,WA,King,WA King,47.5480339,-121.9836029,6,0
+47,3/1/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+48,3/1/2020,Wuhan Evacuee,Unassigned,Wuhan Evacuee Unassigned,30.592849,114.305539,1,0
+49,3/1/2020,WA,King,WA King,47.5480339,-121.9836029,0,4
+50,3/1/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,0,1
+51,3/2/2020,CA,Placer,CA Placer,39.0915751,-120.8039474,1,0
+52,3/2/2020,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,2,0
+53,3/2/2020,CA,San Mateo,CA San Mateo,37.5629917,-122.3255254,1,0
+54,3/2/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,2,0
+55,3/2/2020,CA,Sonoma,CA Sonoma,38.291859,-122.4580356,1,0
+56,3/2/2020,GA,Fulton,GA Fulton,33.8033965,-84.3962535,2,0
+57,3/2/2020,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+58,3/2/2020,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,1,0
+59,3/2/2020,NH,Grafton,NH Grafton,43.561127,-71.947327,1,0
+60,3/2/2020,OR,Washington,OR Washington,47.7510741,-120.7401385,1,0
+61,3/2/2020,WA,King,WA King,47.5480339,-121.9836029,4,0
+62,3/2/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+63,3/2/2020,WA,King,WA King,47.5480339,-121.9836029,0,2
+64,3/3/2020,AZ,Maricopa,AZ Maricopa,33.2917968,-112.4291464,1,0
+65,3/3/2020,CA,Alameda,CA Alameda,37.7798721,-122.2821855,1,0
+66,3/3/2020,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,1,0
+67,3/3/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,1,0
+68,3/3/2020,CA,Orange,CA Orange,33.7879139,-117.8531007,2,0
+69,3/3/2020,CA,Placer,CA Placer,39.0915751,-120.8039474,1,0
+70,3/3/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,2,0
+71,3/3/2020,FL,Gadsden,FL Gadsden,30.5562947,-84.6479124,1,0
+72,3/3/2020,FL,Hillsborough,FL Hillsborough,27.9903597,-82.3017728,1,0
+73,3/3/2020,NC,Wake,NC Wake,35.8031909,-78.5660852,1,0
+74,3/3/2020,NH,Grafton,NH Grafton,43.561127,-71.947327,1,0
+75,3/3/2020,NY,New York,NY New York,40.7127753,-74.0059728,1,0
+76,3/3/2020,WA,King,WA King,47.5480339,-121.9836029,8,0
+77,3/3/2020,CA,Placer,CA Placer,39.0915751,-120.8039474,0,1
+78,3/3/2020,WA,King,WA King,47.5480339,-121.9836029,0,2
+79,3/4/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,5,0
+80,3/4/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,3,0
+81,3/4/2020,CA,Sonoma,CA Sonoma,38.291859,-122.4580356,1,0
+82,3/4/2020,FL,Leon,FL Leon,30.4906177,-84.1857115,1,0
+83,3/4/2020,FL,Miami-Dade,FL Miami-Dade,25.5516034,-80.6326916,1,0
+84,3/4/2020,FL,Okaloosa,FL Okaloosa,30.5773401,-86.6611083,1,0
+85,3/4/2020,FL,Palm Beach,FL Palm Beach,26.7056206,-80.0364297,1,0
+86,3/4/2020,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,1,0
+87,3/4/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,9,0
+88,3/4/2020,TX,Fort Bend,TX Fort Bend,29.5692614,-95.8142885,1,0
+89,3/4/2020,WA,Grant,WA Grant,47.1981147,-119.3732456,1,0
+90,3/4/2020,WA,King,WA King,47.5480339,-121.9836029,10,0
+91,3/4/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+92,3/4/2020,WA,Clark,WA Clark,47.6332568,-122.3754564,0,1
+93,3/4/2020,WA,King,WA King,47.5480339,-121.9836029,0,2
+94,3/5/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,4,0
+95,3/5/2020,CA,Orange,CA Orange,33.7879139,-117.8531007,1,0
+96,3/5/2020,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,2,0
+97,3/5/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,6,0
+98,3/5/2020,CO,Douglas,CO Douglas,39.2587106,-104.9388853,1,0
+99,3/5/2020,CO,Summit,CO Summit,41.0918991,-81.5596427,1,0
+100,3/5/2020,FL,Santa Rosa,FL Santa Rosa,30.7689907,-86.9824288,1,0
+101,3/5/2020,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+102,3/5/2020,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,1,0
+103,3/5/2020,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,1,0
+104,3/5/2020,MD,Montgomery,MD Montgomery,39.1547426,-77.2405153,3,0
+105,3/5/2020,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,1,0
+106,3/5/2020,NV,Clark,NV Clark,36.0795613,-115.094045,1,0
+107,3/5/2020,NY,Nassau,NY Nassau,40.6546145,-73.5594128,1,0
+108,3/5/2020,NY,New York,NY New York,40.7127753,-74.0059728,2,0
+109,3/5/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,8,0
+110,3/5/2020,TN,Williamson,TN Williamson,35.9179271,-86.8621827,1,0
+111,3/5/2020,TX,Harris--Houston,TX Harris--Houston,29.7604267,-95.3698028,2,0
+112,3/5/2020,TX,Harris--Non Houston,TX Harris--Non Houston,29.763429,-95.3562171,2,0
+113,3/5/2020,WA,King,WA King,47.5480339,-121.9836029,20,0
+114,3/5/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,10,0
+115,3/5/2020,FL,Santa Rosa,FL Santa Rosa,30.7689907,-86.9824288,0,1
+116,3/6/2020,AZ,Pinal,AZ Pinal,32.8162061,-111.2845025,1,0
+117,3/6/2020,CA,Alameda,CA Alameda,37.7798721,-122.2821855,1,0
+118,3/6/2020,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,3,0
+119,3/6/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,2,0
+120,3/6/2020,CA,Placer,CA Placer,39.0915751,-120.8039474,3,0
+121,3/6/2020,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,1,0
+122,3/6/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,4,0
+123,3/6/2020,CA,Solano,CA Solano,38.3104969,-121.9017954,1,0
+124,3/6/2020,CA,Ventura,CA Ventura,34.2804923,-119.2945199,1,0
+125,3/6/2020,CA,Yolo,CA Yolo,38.732968,-121.8072828,1,0
+126,3/6/2020,CO,Denver,CO Denver,39.7392358,-104.990251,2,0
+127,3/6/2020,CO,Douglas,CO Douglas,39.2587106,-104.9388853,2,0
+128,3/6/2020,CO,Eagle,CO Eagle,39.6552634,-106.8286507,1,0
+129,3/6/2020,CO,El Paso,CO El Paso,38.9108325,-104.4723301,1,0
+130,3/6/2020,FL,Broward,FL Broward,26.1224386,-80.1373174,1,0
+131,3/6/2020,FL,Lee,FL Lee,26.6630286,-81.9534815,1,0
+132,3/6/2020,GA,Floyd,GA Floyd,34.2828967,-85.2308414,1,0
+134,3/6/2020,HI,Honolulu,HI Honolulu,21.3069444,-157.8583333,1,0
+135,3/6/2020,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+136,3/6/2020,IN,Marion,IN Marion,40.5583739,-85.6591442,1,0
+137,3/6/2020,KY,Fayette,KY Fayette,38.0606478,-84.4802606,1,0
+138,3/6/2020,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,1,0
+139,3/6/2020,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,3,0
+140,3/6/2020,MN,Ramsey,MN Ramsey,45.2611,-93.45,1,0
+141,3/6/2020,NC,Chatham,NC Chatham,35.7211289,-79.17807,1,0
+142,3/6/2020,NE,Douglas,NE Douglas,40.5939437,-96.3877734,1,0
+143,3/6/2020,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,1,0
+144,3/6/2020,NJ,Camden,NJ Camden,39.9259463,-75.1196199,1,0
+145,3/6/2020,NV,Washoe,NV Washoe,40.5608387,-119.6035495,1,0
+146,3/6/2020,NY,Nassau,NY Nassau,40.6546145,-73.5594128,3,0
+147,3/6/2020,NY,New York,NY New York,40.7127753,-74.0059728,1,0
+148,3/6/2020,NY,Rockland,NY Rockland,41.1489458,-73.9830029,2,0
+149,3/6/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,16,0
+150,3/6/2020,OK,Tulsa,OK Tulsa,36.1539816,-95.992775,1,0
+151,3/6/2020,PA,Delaware,PA Delaware,39.907793,-75.3878525,1,0
+152,3/6/2020,PA,Wayne,PA Wayne,40.0415996,-75.3698895,1,0
+153,3/6/2020,RI,Providence,RI Providence,41.8239891,-71.4128343,1,0
+154,3/6/2020,SC,Charleston,SC Charleston,32.7764749,-79.9310512,1,0
+155,3/6/2020,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,1,0
+156,3/6/2020,TX,Fort Bend,TX Fort Bend,29.5692614,-95.8142885,2,0
+157,3/6/2020,TX,Harris--Non Houston,TX Harris--Non Houston,29.763429,-95.3562171,2,0
+158,3/6/2020,UT,Davis,UT Davis,41.0711075,-111.9907563,1,0
+159,3/6/2020,WA,Jefferson,WA Jefferson,47.7424541,-123.3040062,1,0
+160,3/6/2020,WA,King,WA King,47.5480339,-121.9836029,7,0
+161,3/6/2020,WA,Pierce,WA Pierce,47.0675877,-122.1295269,1,0
+162,3/6/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,1,0
+163,3/6/2020,FL,Lee,FL Lee,26.6630286,-81.9534815,0,1
+164,3/7/2020,AZ,Pinal,AZ Pinal,32.8162061,-111.2845025,2,0
+165,3/7/2020,CA,Fresno,CA Fresno,36.7377981,-119.7871247,1,0
+166,3/7/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,1,0
+167,3/7/2020,CA,Madera,CA Madera,36.9613356,-120.0607176,1,0
+168,3/7/2020,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,5,0
+169,3/7/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,8,0
+170,3/7/2020,CA,Santa Cruz,CA Santa Cruz,36.9741171,-122.0307963,1,0
+171,3/7/2020,DC,District of Columbia,DC District of Columbia,38.9071923,-77.0368707,1,0
+172,3/7/2020,FL,Charlotte,FL Charlotte,26.8946009,-81.909826,1,0
+173,3/7/2020,FL,Lee,FL Lee,26.6630286,-81.9534815,1,0
+174,3/7/2020,FL,Manatee,FL Manatee,28.7904427,-82.6131406,1,0
+175,3/7/2020,FL,Okaloosa,FL Okaloosa,30.5773401,-86.6611083,1,0
+176,3/7/2020,FL,Volusia,FL Volusia,29.0279842,-81.0754657,1,0
+177,3/7/2020,GA,Cobb,GA Cobb,33.8999297,-84.564147,1,0
+178,3/7/2020,GA,Fulton,GA Fulton,33.8033965,-84.3962535,2,0
+179,3/7/2020,GA,Gwinnett,GA Gwinnett,33.9190653,-84.0167423,1,0
+180,3/7/2020,GA,Polk,GA Polk,34.0132398,-85.1479364,1,0
+181,3/7/2020,KS,Johnson,KS Johnson,38.845412,-94.8520636,1,0
+182,3/7/2020,MA,Berkshire,MA Berkshire,42.311782,-73.1821623,1,0
+183,3/7/2020,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,4,0
+184,3/7/2020,MO,St. Louis,MO St. Louis,38.6270025,-90.1994042,1,0
+185,3/7/2020,NH,Grafton,NH Grafton,43.561127,-71.947327,1,0
+186,3/7/2020,NH,Rockingham,NH Rockingham,42.9931261,-71.0497768,1,0
+187,3/7/2020,NY,New York,NY New York,40.7127753,-74.0059728,7,0
+188,3/7/2020,NY,Saratoga,NY Saratoga,43.0324245,-73.9359821,2,0
+189,3/7/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,36,0
+190,3/7/2020,OR,Jackson,OR Jackson,42.334535,-122.7646577,2,0
+191,3/7/2020,OR,Klamath,OR Klamath,42.6952767,-121.6142133,1,0
+192,3/7/2020,OR,Washington,OR Washington,47.7510741,-120.7401385,1,0
+193,3/7/2020,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,2,0
+194,3/7/2020,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,1,0
+195,3/7/2020,VT,Bennington,VT Bennington,42.8781345,-73.1967741,1,0
+196,3/7/2020,WA,Clark,WA Clark,47.6332568,-122.3754564,1,0
+197,3/7/2020,WA,King,WA King,47.5480339,-121.9836029,12,0
+198,3/7/2020,WA,Kittitas,WA Kittitas,46.9831822,-120.4170102,1,0
+199,3/7/2020,WA,Pierce,WA Pierce,47.0675877,-122.1295269,2,0
+200,3/7/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,8,0
+201,3/7/2020,WA,King,WA King,47.5480339,-121.9836029,0,5
+202,3/8/2020,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,5,0
+203,3/8/2020,CA,Orange,CA Orange,33.7879139,-117.8531007,1,0
+204,3/8/2020,CA,Placer,CA Placer,39.0915751,-120.8039474,2,0
+205,3/8/2020,CA,Riverside,CA Riverside,33.9806005,-117.3754942,1,0
+206,3/8/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,5,0
+207,3/8/2020,CA,Shasta,CA Shasta,40.598119,-122.4907566,1,0
+208,3/8/2020,CT,Fairfield,CT Fairfield,41.1408363,-73.2612615,1,0
+209,3/8/2020,FL,Broward,FL Broward,26.1224386,-80.1373174,1,0
+210,3/8/2020,GA,Cherokee,GA Cherokee,34.2514526,-84.4802606,1,0
+211,3/8/2020,GA,Cobb,GA Cobb,33.8999297,-84.564147,2,0
+212,3/8/2020,GA,Fulton,GA Fulton,33.8033965,-84.3962535,1,0
+213,3/8/2020,HI,Honolulu,HI Honolulu,21.3069444,-157.8583333,1,0
+214,3/8/2020,IA,Johnson,IA Johnson,41.6698982,-91.5983959,3,0
+215,3/8/2020,IL,Cook,IL Cook,41.7376587,-87.697554,1,0
+216,3/8/2020,IN,Hendricks,IN Hendricks,39.8064942,-86.5400674,2,0
+217,3/8/2020,IN,Noble,IN Noble,35.1392357,-97.394753,1,0
+218,3/8/2020,KY,Fayette,KY Fayette,38.0606478,-84.4802606,1,0
+219,3/8/2020,KY,Harrison,KY Harrison,38.4333045,-84.3542049,1,0
+220,3/8/2020,KY,Jefferson,KY Jefferson,38.1938097,-85.643487,1,0
+221,3/8/2020,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,5,0
+222,3/8/2020,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,8,0
+223,3/8/2020,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,5,0
+224,3/8/2020,MA,Worcester,MA Worcester,42.2625932,-71.8022934,1,0
+225,3/8/2020,MD,Harford,MD Harford,39.5838964,-76.3637285,1,0
+226,3/8/2020,MD,Montgomery,MD Montgomery,39.1547426,-77.2405153,1,0
+227,3/8/2020,MN,Carver,MN Carver,44.7633943,-93.6254404,1,0
+228,3/8/2020,NE,Douglas,NE Douglas,40.5939437,-96.3877734,2,0
+229,3/8/2020,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,1,0
+230,3/8/2020,NJ,Hudson,NJ Hudson,40.7453199,-74.0535126,1,0
+231,3/8/2020,NV,Clark,NV Clark,36.0795613,-115.094045,1,0
+232,3/8/2020,NV,Washoe,NV Washoe,40.5608387,-119.6035495,1,0
+233,3/8/2020,NY,Nassau,NY Nassau,40.6546145,-73.5594128,3,0
+234,3/8/2020,NY,New York,NY New York,40.7127753,-74.0059728,1,0
+235,3/8/2020,NY,Suffolk,NY Suffolk,40.9848784,-72.6151169,1,0
+236,3/8/2020,NY,Ulster,NY Ulster,41.8586493,-74.3118212,1,0
+237,3/8/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,13,0
+238,3/8/2020,OR,Douglas,OR Douglas,43.1260694,-123.2492364,1,0
+239,3/8/2020,OR,Marion,OR Marion,44.7490108,-122.942314,1,0
+240,3/8/2020,OR,Umatilla,OR Umatilla,45.9173549,-119.3425179,1,0
+241,3/8/2020,OR,Washington,OR Washington,47.7510741,-120.7401385,4,0
+242,3/8/2020,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,2,0
+243,3/8/2020,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,4,0
+244,3/8/2020,SC,Spartanburg,SC Spartanburg,34.9495672,-81.9320482,1,0
+245,3/8/2020,TN,Davidson,TN Davidson,36.1342563,-86.8220341,1,0
+246,3/8/2020,TN,Shelby,TN Shelby,35.1268552,-89.9253233,1,0
+247,3/8/2020,TX,Fort Bend,TX Fort Bend,29.5692614,-95.8142885,3,0
+248,3/8/2020,VA,Arlington,VA Arlington,38.8799697,-77.1067698,1,0
+249,3/8/2020,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,1,0
+250,3/8/2020,WA,King,WA King,47.5480339,-121.9836029,12,0
+251,3/8/2020,WA,Kitsap,WA Kitsap,47.6476607,-122.6412583,1,0
+252,3/8/2020,WA,Pierce,WA Pierce,47.0675877,-122.1295269,4,0
+253,3/8/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,4,0
+254,3/8/2020,WA,King,WA King,47.5480339,-121.9836029,0,1
+255,3/9/2020,AZ,Pima,AZ Pima,32.057499,-111.6660725,1,0
+256,3/9/2020,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,5,0
+257,3/9/2020,CA,Marin,CA Marin,38.083403,-122.7633036,1,0
+258,3/9/2020,CA,Riverside,CA Riverside,33.9806005,-117.3754942,3,0
+259,3/9/2020,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,7,0
+260,3/9/2020,CA,San Diego,CA San Diego,32.715738,-117.1610838,1,0
+261,3/9/2020,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,5,0
+262,3/9/2020,CA,San Mateo,CA San Mateo,37.5629917,-122.3255254,7,0
+263,3/9/2020,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,6,0
+264,3/9/2020,CA,Santa Cruz,CA Santa Cruz,36.9741171,-122.0307963,1,0
+265,3/9/2020,CO,Arapahoe,CO Arapahoe,39.62031,-104.332644,1,0
+266,3/9/2020,CO,Denver,CO Denver,39.7392358,-104.990251,1,0
+267,3/9/2020,CO,Eagle,CO Eagle,39.6552634,-106.8286507,1,0
+268,3/9/2020,CO,Larimer,CO Larimer,40.6955572,-105.5943388,1,0
+269,3/9/2020,DC,District of Columbia,DC District of Columbia,38.9071923,-77.0368707,3,0
+270,3/9/2020,Diamond Princess,Riverside,Diamond Princess Riverside,33.9806005,-117.3754942,1,0
+271,3/9/2020,FL,Volusia,FL Volusia,29.0279842,-81.0754657,1,0
+272,3/9/2020,GA,Cobb,GA Cobb,33.8999297,-84.564147,1,0
+273,3/9/2020,GA,DeKalb,GA DeKalb,33.7956441,-84.2278796,2,0
+274,3/9/2020,GA,Fayette,GA Fayette,33.4502206,-84.4802606,1,0
+275,3/9/2020,GA,Gwinnett,GA Gwinnett,33.9190653,-84.0167423,1,0
+276,3/9/2020,IA,Johnson,IA Johnson,41.6698982,-91.5983959,4,0
+277,3/9/2020,IA,Pottawattamie,IA Pottawattamie,41.3911501,-95.4777811,1,0
+278,3/9/2020,IL,Cook,IL Cook,41.7376587,-87.697554,4,0
+279,3/9/2020,IN,Adams,IN Adams,39.8398269,-104.1930918,1,0
+280,3/9/2020,KY,Fayette,KY Fayette,38.0606478,-84.4802606,1,0
+281,3/9/2020,KY,Harrison,KY Harrison,38.4333045,-84.3542049,1,0
+282,3/9/2020,LA,Jefferson,LA Jefferson,29.9660371,-90.1531298,1,0
+283,3/9/2020,MA,Berkshire,MA Berkshire,42.311782,-73.1821623,4,0
+284,3/9/2020,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,5,0
+285,3/9/2020,MD,Prince Georges,MD Prince Georges,38.7849211,-76.8720961,1,0
+286,3/9/2020,NC,Wake,NC Wake,35.8031909,-78.5660852,5,0
+287,3/9/2020,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,1,0
+288,3/9/2020,NJ,Monmouth,NJ Monmouth,40.2589455,-74.123996,2,0
+289,3/9/2020,NJ,Passaic,NJ Passaic,40.8567662,-74.1284764,1,0
+290,3/9/2020,NJ,Union,NJ Union,40.6975898,-74.2631635,1,0
+291,3/9/2020,NY,Nassau,NY Nassau,40.6546145,-73.5594128,10,0
+292,3/9/2020,NY,New York,NY New York,40.7127753,-74.0059728,6,0
+293,3/9/2020,NY,Rockland,NY Rockland,41.1489458,-73.9830029,2,0
+294,3/9/2020,NY,Westchester,NY Westchester,41.1220194,-73.7948516,16,0
+295,3/9/2020,OH,Cuyahoga,OH Cuyahoga,41.433923,-81.67582,3,0
+296,3/9/2020,PA,Monroe,PA Monroe,41.0458376,-75.2479061,1,0
+297,3/9/2020,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,3,0
+298,3/9/2020,TN,Williamson,TN Williamson,35.9179271,-86.8621827,1,0
+299,3/9/2020,TX,Collin,TX Collin,33.1795213,-96.4929797,1,0
+300,3/9/2020,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,1,0
+301,3/9/2020,VA,Spotsylvania,VA Spotsylvania,38.1979096,-77.5877652,1,0
+302,3/9/2020,WA,King,WA King,47.5480339,-121.9836029,33,0
+303,3/9/2020,WA,Pierce,WA Pierce,47.0675877,-122.1295269,7,0
+304,3/9/2020,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,6,0
+305,3/9/2020,WI,Pierce,WI Pierce,44.7508921,-92.3813621,1,0
+306,3/9/2020,WA,King,WA King,47.5480339,-121.9836029,0,2
+307,########,CA,Alameda,CA Alameda,37.7798721,-122.2821855,2,0
+308,########,CA,Calaveras,CA Calaveras,38.1960477,-120.6805037,2,0
+309,########,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,1,0
+310,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,1,0
+311,########,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,1,0
+312,########,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,1,0
+313,########,CA,San Joaquin,CA San Joaquin,37.9175935,-121.1710389,1,0
+314,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,5,0
+315,########,CA,Solano,CA Solano,38.3104969,-121.9017954,3,0
+316,########,CO,Arapahoe,CO Arapahoe,39.62031,-104.332644,1,0
+317,########,CO,Denver,CO Denver,39.7392358,-104.990251,2,0
+318,########,CO,Eagle,CO Eagle,39.6552634,-106.8286507,1,0
+319,########,CO,Jefferson,CO Jefferson,39.5800298,-105.2662931,1,0
+320,########,CT,Litchfield,CT Litchfield,41.7472642,-73.1887165,1,0
+321,########,FL,Alachua,FL Alachua,29.7938144,-82.4944226,1,0
+322,########,FL,Broward,FL Broward,26.1224386,-80.1373174,1,0
+323,########,FL,Collier,FL Collier,26.069985,-81.4278984,3,0
+324,########,FL,Nassau,FL Nassau,30.5927334,-81.8224362,1,0
+325,########,FL,Pasco,FL Pasco,28.3232418,-82.4319405,1,0
+326,########,FL,Pinellas,FL Pinellas,27.876394,-82.7778579,2,0
+327,########,GA,Cobb,GA Cobb,33.8999297,-84.564147,3,0
+328,########,GA,Fulton,GA Fulton,33.8033965,-84.3962535,1,0
+329,########,IA,Johnson,IA Johnson,41.6698982,-91.5983959,5,0
+330,########,IL,Cook,IL Cook,41.7376587,-87.697554,6,0
+331,########,IL,Kane,IL Kane,39.190047,-90.353727,1,0
+332,########,IL,McHenry,IL McHenry,42.333355,-88.2667534,1,0
+333,########,IN,Boone,IN Boone,36.216795,-81.6745517,1,0
+334,########,KY,Harrison,KY Harrison,38.4333045,-84.3542049,2,0
+335,########,LA,Orleans,LA Orleans,29.9510658,-90.0715323,5,0
+336,########,MA,Berkshire,MA Berkshire,42.311782,-73.1821623,2,0
+337,########,MA,Essex,MA Essex,42.6319582,-70.7829315,1,0
+338,########,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,26,0
+339,########,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,13,0
+340,########,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,9,0
+341,########,MD,Montgomery,MD Montgomery,39.1547426,-77.2405153,1,0
+342,########,MD,Prince Georges,MD Prince Georges,38.7849211,-76.8720961,2,0
+343,########,MI,Oakland,MI Oakland,42.5921924,-83.336188,1,0
+344,########,MI,Wayne--Non Detroit,MI Wayne--Non Detroit,42.2996623,-83.0959742,1,0
+345,########,MN,Anoka,MN Anoka,45.1977428,-93.3871758,1,0
+346,########,NE,Douglas,NE Douglas,40.5939437,-96.3877734,1,0
+347,########,NE,Knox,NE Knox,42.6712397,-97.87216,1,0
+348,########,NH,Rockingham,NH Rockingham,42.9931261,-71.0497768,1,0
+349,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,2,0
+350,########,NJ,Burlington,NJ Burlington,40.071222,-74.8648873,2,0
+351,########,NY,Nassau,NY Nassau,40.6546145,-73.5594128,2,0
+352,########,NY,New York,NY New York,40.7127753,-74.0059728,17,0
+353,########,NY,Rockland,NY Rockland,41.1489458,-73.9830029,2,0
+354,########,NY,Suffolk,NY Suffolk,40.9848784,-72.6151169,3,0
+355,########,NY,Westchester,NY Westchester,41.1220194,-73.7948516,10,0
+356,########,OK,Tulsa,OK Tulsa,36.1539816,-95.992775,1,0
+357,########,OR,Multnomah,OR Multnomah,45.5145659,-122.5863211,1,0
+358,########,PA,Bucks,PA Bucks,40.4107964,-75.2479061,2,0
+359,########,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,1,0
+360,########,PA,Philadelphia,PA Philadelphia,39.9525839,-75.1652215,1,0
+361,########,RI,Providence,RI Providence,41.8239891,-71.4128343,2,0
+362,########,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,2,0
+363,########,SD,Beadle,SD Beadle,44.4797351,-98.2212979,1,0
+364,########,SD,Charles Mix,SD Charles Mix,43.0985109,-98.3964938,1,0
+365,########,SD,Davison,SD Davison,43.7242124,-98.2212979,1,0
+366,########,SD,Minnehaha,SD Minnehaha,43.6631787,-96.8350999,1,0
+367,########,SD,Pennington,SD Pennington,43.8901111,-102.2547919,1,0
+368,########,TN,Sullivan,TN Sullivan,36.4933147,-82.345189,1,0
+369,########,TN,Williamson,TN Williamson,35.9179271,-86.8621827,2,0
+370,########,TX,Collin,TX Collin,33.1795213,-96.4929797,2,0
+371,########,TX,Dallas,TX Dallas,32.7766642,-96.7969879,2,0
+372,########,TX,Gregg,TX Gregg,32.4892547,-94.8520636,1,0
+373,########,TX,Harris--Non Houston,TX Harris--Non Houston,29.763429,-95.3562171,1,0
+374,########,TX,Montgomery,TX Montgomery,30.3882613,-95.6963355,1,0
+375,########,TX,Tarrant,TX Tarrant,32.7732044,-97.3516558,1,0
+376,########,UT,Weber-Morgan,UT Weber-Morgan,41.2245903,-111.9681227,1,0
+377,########,VA,Loudoun,VA Loudoun,39.076767,-77.6536125,1,0
+378,########,VA,Virginia Beach,VA Virginia Beach,36.8529263,-75.977985,2,0
+379,########,WA,Island,WA Island,48.5513671,-123.0781062,1,0
+380,########,WA,King,WA King,47.5480339,-121.9836029,74,0
+381,########,WA,Kitsap,WA Kitsap,47.6476607,-122.6412583,1,0
+382,########,WA,Pierce,WA Pierce,47.0675877,-122.1295269,3,0
+383,########,WA,Skagit,WA Skagit,48.4241961,-121.7114362,1,0
+384,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,23,0
+385,########,WA,Whatcom,WA Whatcom,48.8787167,-121.9718658,1,0
+386,########,WI,Dane,WI Dane,43.2505472,-89.5015088,1,0
+387,########,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,0,1
+388,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,0,1
+389,########,SD,Pennington,SD Pennington,43.8901111,-102.2547919,0,1
+390,########,WA,King,WA King,47.5480339,-121.9836029,0,2
+391,########,AR,Jefferson,AR Jefferson,34.227351,-91.9099238,1,0
+392,########,AZ,Maricopa,AZ Maricopa,33.2917968,-112.4291464,1,0
+393,########,AZ,Pinal,AZ Pinal,32.8162061,-111.2845025,2,0
+394,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,7,0
+395,########,CA,Marin,CA Marin,38.083403,-122.7633036,2,0
+396,########,CA,Orange,CA Orange,33.7879139,-117.8531007,1,0
+397,########,CA,Riverside,CA Riverside,33.9806005,-117.3754942,1,0
+398,########,CA,San Mateo,CA San Mateo,37.5629917,-122.3255254,6,0
+399,########,CA,Santa Cruz,CA Santa Cruz,36.9741171,-122.0307963,2,0
+400,########,CA,Stanislaus,CA Stanislaus,37.5090711,-120.9876321,2,0
+401,########,CA,Tulare,CA Tulare,36.2077288,-119.3473379,1,0
+402,########,CA,Ventura,CA Ventura,34.2804923,-119.2945199,1,0
+403,########,CO,Arapahoe,CO Arapahoe,39.62031,-104.332644,1,0
+404,########,CO,Denver,CO Denver,39.7392358,-104.990251,2,0
+405,########,CO,Eagle,CO Eagle,39.6552634,-106.8286507,1,0
+406,########,CO,Gunnison,CO Gunnison,38.5458246,-106.9253207,2,0
+407,########,CO,Jefferson,CO Jefferson,39.5800298,-105.2662931,2,0
+408,########,CO,Pitkin,CO Pitkin,38.6091612,-106.5166957,9,0
+409,########,CT,Fairfield,CT Fairfield,41.1408363,-73.2612615,1,0
+410,########,DC,District of Columbia,DC District of Columbia,38.9071923,-77.0368707,6,0
+411,########,DE,New Castle,DE New Castle,39.6620397,-75.5668166,1,0
+412,########,FL,Broward,FL Broward,26.1224386,-80.1373174,1,0
+413,########,GA,Bartow,GA Bartow,34.2660473,-84.8150781,4,0
+414,########,GA,Charlton,GA Charlton,30.7917361,-82.0842901,1,0
+415,########,GA,Cobb,GA Cobb,33.8999297,-84.564147,1,0
+416,########,GA,DeKalb,GA DeKalb,33.7956441,-84.2278796,2,0
+417,########,GA,Floyd,GA Floyd,34.2828967,-85.2308414,1,0
+418,########,GA,Fulton,GA Fulton,33.8033965,-84.3962535,1,0
+419,########,GA,Lee,GA Lee,31.8128435,-84.1435136,1,0
+420,########,GA,Lowndes,GA Lowndes,30.8600022,-83.2934086,1,0
+421,########,IA,Johnson,IA Johnson,41.6698982,-91.5983959,1,0
+422,########,IL,Cook,IL Cook,41.7376587,-87.697554,5,0
+423,########,IL,Lake,IL Lake,39.7078813,-89.6016171,1,0
+424,########,IN,Howard,IN Howard,44.5623531,-88.0803051,1,0
+425,########,IN,Johnson,IN Johnson,38.914072,-94.80205,3,0
+426,########,IN,Marion,IN Marion,40.5583739,-85.6591442,1,0
+427,########,IN,St. Joseph,IN St. Joseph,41.6228085,-86.3376761,1,0
+428,########,LA,Caddo,LA Caddo,32.7565316,-93.9737925,1,0
+429,########,LA,Lafourche,LA Lafourche,29.6952295,-90.5257823,1,0
+430,########,LA,Orleans,LA Orleans,29.9510658,-90.0715323,5,0
+431,########,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,3,0
+432,########,MD,Baltimore,MD Baltimore,39.2903848,-76.6121893,1,0
+433,########,MD,Montgomery,MD Montgomery,39.1547426,-77.2405153,1,0
+434,########,MD,Prince Georges,MD Prince Georges,38.7849211,-76.8720961,1,0
+435,########,MN,Olmsted,MN Olmsted,43.995179,-92.3813621,1,0
+436,########,MN,Ramsey,MN Ramsey,45.2611,-93.45,1,0
+437,########,MS,Forrest,MS Forrest,31.4127292,-89.3297195,1,0
+438,########,NC,Durham,NC Durham,35.9940329,-78.898619,1,0
+439,########,NC,Wake,NC Wake,35.8031909,-78.5660852,1,0
+440,########,ND,Ward,ND Ward,48.2147451,-101.5805256,1,0
+441,########,NE,Douglas,NE Douglas,40.5939437,-96.3877734,5,0
+442,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,4,0
+443,########,NJ,Middlesex,NJ Middlesex,40.572603,-74.4926541,2,0
+444,########,NJ,Monmouth,NJ Monmouth,40.2589455,-74.123996,2,0
+445,########,NM,Bernalillo,NM Bernalillo,35.30004,-106.5511369,1,0
+446,########,NM,Santa Fe,NM Santa Fe,35.6869752,-105.937799,1,0
+447,########,NM,Socorro,NM Socorro,34.0583995,-106.8914159,2,0
+448,########,NV,Clark,NV Clark,36.0795613,-115.094045,3,0
+449,########,NY,Monroe,NY Monroe,41.3306493,-74.1868135,1,0
+450,########,NY,Nassau,NY Nassau,40.6546145,-73.5594128,9,0
+451,########,NY,New York,NY New York,40.7127753,-74.0059728,17,0
+452,########,NY,Westchester,NY Westchester,41.1220194,-73.7948516,13,0
+453,########,OH,Stark,OH Stark,40.8684676,-81.2518833,1,0
+454,########,OR,Deschutes,OR Deschutes,44.1565074,-121.2555881,1,0
+455,########,OR,Linn,OR Linn,44.4099768,-122.53401,2,0
+456,########,OR,Marion,OR Marion,44.7490108,-122.942314,1,0
+457,########,OR,Polk,OR Polk,44.9266528,-123.4919256,1,0
+458,########,OR,Umatilla,OR Umatilla,45.9173549,-119.3425179,1,0
+459,########,PA,Monroe,PA Monroe,41.0458376,-75.2479061,1,0
+460,########,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,1,0
+461,########,SC,Lancaster,SC Lancaster,34.7204257,-80.7709014,1,0
+462,########,SD,Bon Homme,SD Bon Homme,42.9814835,-97.87216,1,0
+463,########,SD,Minnehaha,SD Minnehaha,43.6631787,-96.8350999,2,0
+464,########,TN,Davidson,TN Davidson,36.1342563,-86.8220341,1,0
+465,########,TN,Williamson,TN Williamson,35.9179271,-86.8621827,1,0
+466,########,TX,Dallas,TX Dallas,32.7766642,-96.7969879,1,0
+467,########,TX,Harris--Houston,TX Harris--Houston,29.7604267,-95.3698028,1,0
+468,########,UT,Salt Lake,UT Salt Lake,40.7607793,-111.8910474,1,0
+469,########,UT,Summit,UT Summit,40.8297566,-110.9983515,1,0
+470,########,VA,Alexandria,VA Alexandria,38.8048355,-77.0469214,1,0
+471,########,VA,Hanover,VA Hanover,37.7665686,-77.3702444,1,0
+472,########,VA,Prince Edward,VA Prince Edward,37.1982888,-78.4297187,1,0
+473,########,VT,Chittenden,VT Chittenden,43.7271064,-72.9428417,1,0
+474,########,WA,King,WA King,47.5480339,-121.9836029,44,0
+475,########,WA,Kittitas,WA Kittitas,46.9831822,-120.4170102,1,0
+476,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,15,0
+477,########,WA,Thurston,WA Thurston,46.8645747,-122.7695986,1,0
+478,########,WI,Fond du Lac,WI Fond du Lac,43.7730448,-88.4470508,2,0
+479,########,WI,Waukesha,WI Waukesha,43.0116784,-88.2314813,1,0
+480,########,WY,Sheridan,WY Sheridan,44.7971939,-106.9561791,1,0
+481,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,0,1
+482,########,GA,Cobb,GA Cobb,33.8999297,-84.564147,0,1
+483,########,WA,King,WA King,47.5480339,-121.9836029,0,4
+484,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,0,2
+485,########,AK,Anchorage,AK Anchorage,61.2180556,-149.9002778,1,0
+486,########,AR,Grant,AR Grant,34.2628015,-92.4208713,1,0
+487,########,AR,Jefferson,AR Jefferson,34.227351,-91.9099238,2,0
+488,########,AR,Pulaski,AR Pulaski,34.7538615,-92.2236667,1,0
+489,########,AR,Saline,AR Saline,34.5708215,-92.539603,1,0
+490,########,CA,Alameda,CA Alameda,37.7798721,-122.2821855,6,0
+491,########,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,7,0
+492,########,CA,Imperial,CA Imperial,32.8475528,-115.5694391,2,0
+493,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,4,0
+494,########,CA,Riverside,CA Riverside,33.9806005,-117.3754942,1,0
+495,########,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,6,0
+496,########,CA,San Diego,CA San Diego,32.715738,-117.1610838,4,0
+497,########,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,4,0
+498,########,CA,San Joaquin,CA San Joaquin,37.9175935,-121.1710389,2,0
+499,########,CA,San Mateo,CA San Mateo,37.5629917,-122.3255254,5,0
+500,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,18,0
+501,########,CA,Santa Cruz,CA Santa Cruz,36.9741171,-122.0307963,3,0
+502,########,CO,Adams,CO Adams,39.8398269,-104.1930918,2,0
+503,########,CO,Denver,CO Denver,39.7392358,-104.990251,3,0
+504,########,CO,Eagle,CO Eagle,39.6552634,-106.8286507,7,0
+505,########,CO,Gunnison,CO Gunnison,38.5458246,-106.9253207,1,0
+506,########,CO,Jefferson,CO Jefferson,39.5800298,-105.2662931,1,0
+507,########,CO,Pitkin,CO Pitkin,38.6091612,-106.5166957,1,0
+508,########,CT,Fairfield,CT Fairfield,41.1408363,-73.2612615,2,0
+509,########,DE,New Castle,DE New Castle,39.6620397,-75.5668166,3,0
+511,########,FL,Alachua,FL Alachua,29.7938144,-82.4944226,1,0
+512,########,FL,Broward,FL Broward,26.1224386,-80.1373174,7,0
+513,########,FL,Clay,FL Clay,29.9943564,-81.7787021,1,0
+514,########,FL,Duval,FL Duval,30.3500511,-81.6035062,1,0
+515,########,FL,Hillsborough,FL Hillsborough,27.9903597,-82.3017728,1,0
+516,########,FL,Lee,FL Lee,26.6630286,-81.9534815,1,0
+517,########,FL,Miami-Dade,FL Miami-Dade,25.5516034,-80.6326916,1,0
+518,########,FL,Palm Beach,FL Palm Beach,26.7056206,-80.0364297,2,0
+519,########,FL,Sarasota,FL Sarasota,27.3364347,-82.5306527,1,0
+520,########,FL,Seminole,FL Seminole,27.8397466,-82.7912134,1,0
+521,########,FL,St. Johns,FL St. Johns,30.0820653,-81.5471201,1,0
+522,########,FL,Volusia,FL Volusia,29.0279842,-81.0754657,1,0
+523,########,GA,Coweta,GA Coweta,33.3716708,-84.7315563,1,0
+524,########,GA,DeKalb,GA DeKalb,33.7956441,-84.2278796,1,0
+525,########,GA,Fayette,GA Fayette,33.4502206,-84.4802606,2,0
+526,########,GA,Floyd,GA Floyd,34.2828967,-85.2308414,1,0
+527,########,GA,Fulton,GA Fulton,33.8033965,-84.3962535,1,0
+528,########,GA,Gordon,GA Gordon,32.8820866,-83.3323848,2,0
+529,########,Grand Princess,San Diego,Grand Princess San Diego,32.9382187,-117.197682,1,0
+530,########,IA,Carroll,IA Carroll,42.0655986,-94.8672793,1,0
+531,########,IA,Johnson,IA Johnson,41.6698982,-91.5983959,1,0
+532,########,IL,Cook,IL Cook,41.7376587,-87.697554,5,0
+533,########,IL,Kane,IL Kane,39.190047,-90.353727,1,0
+534,########,IL,McHenry,IL McHenry,42.333355,-88.2667534,1,0
+535,########,KS,Johnson,KS Johnson,38.845412,-94.8520636,3,0
+536,########,KS,Wyandotte,KS Wyandotte,39.0986811,-94.7691586,1,0
+537,########,KY,Fayette,KY Fayette,38.0606478,-84.4802606,1,0
+538,########,KY,Harrison,KY Harrison,38.4333045,-84.3542049,1,0
+539,########,KY,Jefferson,KY Jefferson,38.1938097,-85.643487,1,0
+540,########,LA,Jefferson,LA Jefferson,29.9660371,-90.1531298,1,0
+541,########,LA,Orleans,LA Orleans,29.9510658,-90.0715323,5,0
+542,########,MA,Berkshire,MA Berkshire,42.311782,-73.1821623,2,0
+543,########,MA,Essex,MA Essex,42.6319582,-70.7829315,1,0
+544,########,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,5,0
+545,########,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,1,0
+546,########,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,3,0
+547,########,MA,Worcester,MA Worcester,42.2625932,-71.8022934,1,0
+548,########,ME,Androscoggin,ME Androscoggin,44.1912416,-70.1707037,1,0
+549,########,MI,Ingham,MI Ingham,42.6468943,-84.3542049,1,0
+550,########,MI,Kent,MI Kent,43.0097027,-85.520024,3,0
+551,########,MI,Montcalm,MI Montcalm,43.3057341,-85.1894045,1,0
+552,########,MI,Oakland,MI Oakland,42.5921924,-83.336188,2,0
+553,########,MI,St. Clair,MI St. Clair,42.8208653,-82.486024,1,0
+554,########,MI,Washtenaw,MI Washtenaw,42.3076493,-83.8473015,2,0
+555,########,MN,Dakota,MN Dakota,44.731554,-93.1779659,1,0
+556,########,MN,Hennepin,MN Hennepin,45.0208911,-93.5094574,1,0
+557,########,MN,Ramsey,MN Ramsey,45.2611,-93.45,1,0
+558,########,MN,Stearns,MN Stearns,45.5844792,-94.5865603,1,0
+559,########,MO,Greene,MO Greene,37.3311215,-93.5003454,1,0
+560,########,NC,Cabarrus,NC Cabarrus,35.4168123,-80.5882803,1,0
+561,########,NC,Forsyth,NC Forsyth,36.1200003,-80.1875065,2,0
+562,########,NC,Johnston,NC Johnston,35.4403514,-78.3842227,1,0
+563,########,NC,Mecklenburg,NC Mecklenburg,35.2632655,-80.8543847,1,0
+564,########,NC,Onslow,NC Onslow,34.6540094,-77.4701972,1,0
+565,########,NC,Wake,NC Wake,35.8031909,-78.5660852,1,0
+566,########,NE,Cass,NE Cass,40.8755529,-96.1526985,1,0
+567,########,NH,Rockingham,NH Rockingham,42.9931261,-71.0497768,1,0
+568,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,2,0
+569,########,NJ,Essex,NJ Essex,40.7947466,-74.2648829,1,0
+570,########,NJ,Middlesex,NJ Middlesex,40.572603,-74.4926541,2,0
+571,########,NJ,Monmouth,NJ Monmouth,40.2589455,-74.123996,1,0
+572,########,NJ,Morris,NJ Morris,40.8336038,-74.5463282,1,0
+573,########,NJ,Somerset,NJ Somerset,40.5292099,-74.6400432,1,0
+574,########,NM,Bernalillo,NM Bernalillo,35.30004,-106.5511369,1,0
+575,########,NM,Santa Fe,NM Santa Fe,35.6869752,-105.937799,1,0
+576,########,NV,Carson City,NV Carson City,39.1637984,-119.7674034,1,0
+577,########,NV,Clark,NV Clark,36.0795613,-115.094045,3,0
+578,########,NY,Albany,NY Albany,42.6525793,-73.7562317,2,0
+579,########,NY,Delaware,NY Delaware,42.2452081,-74.8741045,1,0
+580,########,NY,Dutchess,NY Dutchess,41.7784372,-73.7477857,1,0
+581,########,NY,Herkimer,NY Herkimer,43.0256259,-74.9859889,1,0
+582,########,NY,Nassau,NY Nassau,40.6546145,-73.5594128,13,0
+583,########,NY,New York,NY New York,40.7127753,-74.0059728,42,0
+584,########,NY,Orange,NY Orange,41.3911653,-74.3118212,1,0
+585,########,NY,Rockland,NY Rockland,41.1489458,-73.9830029,1,0
+586,########,NY,Saratoga,NY Saratoga,43.0324245,-73.9359821,1,0
+587,########,NY,Suffolk,NY Suffolk,40.9848784,-72.6151169,16,0
+588,########,NY,Ulster,NY Ulster,41.8586493,-74.3118212,3,0
+589,########,NY,Westchester,NY Westchester,41.1220194,-73.7948516,27,0
+590,########,OH,Trumbull,OH Trumbull,41.3064984,-80.7214417,1,0
+591,########,OK,Jackson,OK Jackson,34.5834576,-99.456155,1,0
+592,########,OR,Clackamas,OR Clackamas,45.4076205,-122.5703692,1,0
+593,########,OR,Linn,OR Linn,44.4099768,-122.53401,6,0
+594,########,OR,Washington,OR Washington,47.7510741,-120.7401385,2,0
+595,########,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,4,0
+596,########,PA,Northampton,PA Northampton,40.6862075,-75.4968501,1,0
+597,########,PA,Pike,PA Pike,40.160011,-77.686814,1,0
+598,########,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,1,0
+599,########,SC,Lancaster,SC Lancaster,34.7204257,-80.7709014,1,0
+600,########,TN,Davidson,TN Davidson,36.1342563,-86.8220341,4,0
+601,########,TN,Knox,TN Knox,35.9874629,-83.9419784,1,0
+602,########,TN,Shelby,TN Shelby,35.1268552,-89.9253233,1,0
+603,########,TN,Williamson,TN Williamson,35.9179271,-86.8621827,3,0
+604,########,TX,Collin,TX Collin,33.1795213,-96.4929797,1,0
+605,########,TX,Dallas,TX Dallas,32.7766642,-96.7969879,5,0
+606,########,TX,Harris--Non Houston,TX Harris--Non Houston,29.763429,-95.3562171,1,0
+607,########,TX,Montgomery,TX Montgomery,30.3882613,-95.6963355,2,0
+608,########,UT,Salt Lake,UT Salt Lake,40.7607793,-111.8910474,1,0
+609,########,VA,Arlington,VA Arlington,38.8799697,-77.1067698,1,0
+610,########,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,2,0
+611,########,VA,Harrisonburg,VA Harrisonburg,38.4495688,-78.8689155,1,0
+612,########,VA,James City,VA James City,37.3002132,-76.8028933,2,0
+613,########,VA,Loudoun,VA Loudoun,39.076767,-77.6536125,1,0
+614,########,WA,Grays Harbor,WA Grays Harbor,46.9953526,-123.7012468,1,0
+615,########,WA,Island,WA Island,48.5513671,-123.0781062,2,0
+616,########,WA,King,WA King,47.5480339,-121.9836029,36,0
+617,########,WA,Kittitas,WA Kittitas,46.9831822,-120.4170102,1,0
+618,########,WA,Skagit,WA Skagit,48.4241961,-121.7114362,1,0
+619,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,36,0
+620,########,WI,Dane,WI Dane,43.2505472,-89.5015088,2,0
+621,########,KS,Wyandotte,KS Wyandotte,39.0986811,-94.7691586,0,1
+622,########,PA,Northampton,PA Northampton,40.6862075,-75.4968501,0,1
+623,########,AL,Elmore,AL Elmore,33.9087558,-84.4859578,1,0
+624,########,AL,Jefferson,AL Jefferson,32.3859585,-87.9017188,1,0
+625,########,AL,Limestone,AL Limestone,34.7800072,-86.9423801,1,0
+626,########,AL,Montgomery,AL Montgomery,32.3792233,-86.3077368,1,0
+627,########,AL,Tuscaloosa,AL Tuscaloosa,33.2098407,-87.5691735,1,0
+628,########,AR,Faulkner,AR Faulkner,35.1035858,-92.3813621,2,0
+629,########,AR,Pulaski,AR Pulaski,34.7538615,-92.2236667,1,0
+630,########,AZ,Graham,AZ Graham,33.076805,-109.7591675,1,0
+631,########,AZ,Pima,AZ Pima,32.057499,-111.6660725,1,0
+632,########,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,8,0
+633,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,9,0
+634,########,CA,Orange,CA Orange,33.7879139,-117.8531007,7,0
+635,########,CA,Riverside,CA Riverside,33.9806005,-117.3754942,4,0
+636,########,CA,San Benito,CA San Benito,36.5760883,-120.9876321,1,0
+637,########,CA,San Diego,CA San Diego,32.715738,-117.1610838,5,0
+638,########,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,5,0
+639,########,CA,San Joaquin,CA San Joaquin,37.9175935,-121.1710389,5,0
+640,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,13,0
+641,########,CA,Tulare,CA Tulare,36.2077288,-119.3473379,1,0
+642,########,CA,Ventura,CA Ventura,34.2804923,-119.2945199,2,0
+643,########,CA,Yolo,CA Yolo,38.732968,-121.8072828,1,0
+644,########,CO,Adams,CO Adams,39.8398269,-104.1930918,1,0
+645,########,CO,Arapahoe,CO Arapahoe,39.62031,-104.332644,6,0
+646,########,CO,Denver,CO Denver,39.7392358,-104.990251,5,0
+647,########,CO,Douglas,CO Douglas,39.2587106,-104.9388853,1,0
+648,########,CO,Eagle,CO Eagle,39.6552634,-106.8286507,5,0
+649,########,CO,El Paso,CO El Paso,38.9108325,-104.4723301,1,0
+650,########,CO,Gunnison,CO Gunnison,38.5458246,-106.9253207,1,0
+651,########,CO,Jefferson,CO Jefferson,39.5800298,-105.2662931,3,0
+652,########,CO,Pueblo,CO Pueblo,38.2544472,-104.6091409,1,0
+653,########,CO,Routt,CO Routt,40.4771623,-107.1011931,1,0
+654,########,CO,Summit,CO Summit,41.0918991,-81.5596427,1,0
+655,########,CO,Weld,CO Weld,40.3920718,-104.7158226,2,0
+656,########,CT,Fairfield,CT Fairfield,41.1408363,-73.2612615,4,0
+657,########,CT,Hartford,CT Hartford,41.7658043,-72.6733723,1,0
+658,########,CT,Litchfield,CT Litchfield,41.7472642,-73.1887165,2,0
+659,########,FL,Lee,FL Lee,26.6630286,-81.9534815,1,0
+660,########,FL,Miami-Dade,FL Miami-Dade,25.5516034,-80.6326916,2,0
+661,########,FL,Orange,FL Orange,28.4844995,-81.2518833,1,0
+662,########,FL,Osceola,FL Osceola,28.1019838,-81.0754657,1,0
+663,########,HI,Honolulu,HI Honolulu,21.3069444,-157.8583333,2,0
+664,########,IA,Harrison,IA Harrison,41.6933855,-95.8142885,1,0
+665,########,ID,Ada,ID Ada,43.478767,-116.2420304,1,0
+666,########,IL,Cook,IL Cook,41.7376587,-87.697554,13,0
+667,########,IL,Lake,IL Lake,39.7078813,-89.6016171,1,0
+668,########,KS,Butler,KS Butler,37.8649441,-96.8350999,1,0
+669,########,KY,Harrison,KY Harrison,38.4333045,-84.3542049,1,0
+670,########,KY,Jefferson,KY Jefferson,38.1938097,-85.643487,1,0
+671,########,KY,Montgomery,KY Montgomery,38.0314578,-83.8897057,1,0
+672,########,LA,Jefferson,LA Jefferson,29.9660371,-90.1531298,1,0
+673,########,LA,Orleans,LA Orleans,29.9510658,-90.0715323,11,0
+674,########,LA,St. Charles,LA St. Charles,29.9273657,-90.3371889,1,0
+675,########,LA,St. Tammany,LA St. Tammany,30.4357418,-89.9253233,2,0
+676,########,LA,Terrebonne,LA Terrebonne,29.2299682,-90.7532809,1,0
+677,########,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,11,0
+678,########,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,4,0
+679,########,MD,Anne Arundel,MD Anne Arundel,38.9530109,-76.5488232,1,0
+680,########,MD,Baltimore,MD Baltimore,39.2903848,-76.6121893,1,0
+681,########,MD,Carroll,MD Carroll,39.5423418,-77.0564464,1,0
+682,########,MD,Charles,MD Charles,38.5221781,-77.1024902,1,0
+683,########,MD,Prince Georges,MD Prince Georges,38.7849211,-76.8720961,3,0
+684,########,ME,Lincoln,ME Lincoln,45.3586189,-68.5082165,1,0
+685,########,MI,Bay,MI Bay,43.5944677,-83.8888647,1,0
+686,########,MI,Charlevoix,MI Charlevoix,45.3180632,-85.2584004,1,0
+687,########,MI,Macomb,MI Macomb,42.7168759,-82.820974,1,0
+688,########,MI,Oakland,MI Oakland,42.5921924,-83.336188,3,0
+689,########,MI,Washtenaw,MI Washtenaw,42.3076493,-83.8473015,1,0
+690,########,MI,Wayne--Non Detroit,MI Wayne--Non Detroit,42.2996623,-83.0959742,3,0
+691,########,MI,Wayne--Detroit,MI Wayne--Detroit,42.2996623,-83.0959742,3,0
+692,########,MN,Hennepin,MN Hennepin,45.0208911,-93.5094574,2,0
+693,########,MN,Ramsey,MN Ramsey,45.2611,-93.45,1,0
+694,########,MN,Stearns,MN Stearns,45.5844792,-94.5865603,1,0
+695,########,MN,Wright,MN Wright,46.6715593,-93.0074403,1,0
+696,########,MO,Henry,MO Henry,38.3386592,-93.8248241,1,0
+697,########,MO,St. Louis,MO St. Louis,38.6270025,-90.1994042,1,0
+698,########,MS,Copiah,MS Copiah,31.9012453,-90.3748354,1,0
+699,########,MS,Forrest,MS Forrest,31.4127292,-89.3297195,2,0
+700,########,MS,Leflore,MS Leflore,33.5274427,-90.3748354,1,0
+701,########,MS,Pearl River,MS Pearl River,30.3928842,-89.6734256,1,0
+702,########,MT,Broadwater,MT Broadwater,46.5946659,-112.112653,1,0
+703,########,MT,Gallatin,MT Gallatin,45.5388865,-111.1194231,1,0
+704,########,MT,Silver Bow,MT Silver Bow,45.8804293,-112.5843056,1,0
+705,########,MT,Yellowstone,MT Yellowstone,44.427963,-110.588455,1,0
+706,########,NC,Harnett,NC Harnett,35.34528,-78.7925,1,0
+707,########,NC,Wake,NC Wake,35.8031909,-78.5660852,1,0
+708,########,NC,Wayne,NC Wayne,35.3565499,-77.973865,1,0
+709,########,NE,Douglas,NE Douglas,40.5939437,-96.3877734,3,0
+710,########,NH,Rockingham,NH Rockingham,42.9931261,-71.0497768,1,0
+711,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,2,0
+712,########,NJ,Burlington,NJ Burlington,40.071222,-74.8648873,1,0
+713,########,NJ,Camden,NJ Camden,39.9259463,-75.1196199,1,0
+714,########,NJ,Essex,NJ Essex,40.7947466,-74.2648829,2,0
+715,########,NJ,Hudson,NJ Hudson,40.7453199,-74.0535126,3,0
+716,########,NJ,Mercer,NJ Mercer,40.3028533,-74.7337069,1,0
+717,########,NJ,Middlesex,NJ Middlesex,40.572603,-74.4926541,2,0
+718,########,NJ,Monmouth,NJ Monmouth,40.2589455,-74.123996,3,0
+719,########,NJ,Morris,NJ Morris,40.8336038,-74.5463282,2,0
+720,########,NJ,Ocean,NJ Ocean,39.9652553,-74.3118212,1,0
+721,########,NJ,Passaic,NJ Passaic,40.8567662,-74.1284764,1,0
+722,########,NM,Bernalillo,NM Bernalillo,35.30004,-106.5511369,3,0
+723,########,NM,Santa Fe,NM Santa Fe,35.6869752,-105.937799,1,0
+724,########,NV,Clark,NV Clark,36.0795613,-115.094045,8,0
+725,########,NV,Washoe,NV Washoe,40.5608387,-119.6035495,1,0
+726,########,NY,Broome,NY Broome,42.1791865,-75.8533954,1,0
+727,########,NY,Dutchess,NY Dutchess,41.7784372,-73.7477857,2,0
+728,########,NY,Nassau,NY Nassau,40.6546145,-73.5594128,10,0
+729,########,NY,New York,NY New York,40.7127753,-74.0059728,59,0
+730,########,NY,Orange,NY Orange,41.3911653,-74.3118212,2,0
+731,########,NY,Rockland,NY Rockland,41.1489458,-73.9830029,2,0
+732,########,NY,Schenectady,NY Schenectady,42.8142432,-73.9395687,1,0
+733,########,NY,Suffolk,NY Suffolk,40.9848784,-72.6151169,8,0
+734,########,NY,Ulster,NY Ulster,41.8586493,-74.3118212,1,0
+735,########,NY,Westchester,NY Westchester,41.1220194,-73.7948516,10,0
+736,########,OH,Belmont,OH Belmont,40.0292374,-81.0389883,2,0
+737,########,OH,Butler,OH Butler,39.440463,-84.5222189,1,0
+738,########,OH,Cuyahoga,OH Cuyahoga,41.433923,-81.67582,3,0
+739,########,OH,Stark,OH Stark,40.8684676,-81.2518833,1,0
+740,########,OH,Summit,OH Summit,41.0918991,-81.5596427,1,0
+741,########,OK,Oklahoma,OK Oklahoma,35.8506548,-95.3182985,1,0
+742,########,OR,Deschutes,OR Deschutes,44.1565074,-121.2555881,2,0
+743,########,PA,Bucks,PA Bucks,40.4107964,-75.2479061,1,0
+744,########,PA,Chester,PA Chester,39.849557,-75.3557457,1,0
+745,########,PA,Cumberland,PA Cumberland,40.1299841,-77.2405153,3,0
+746,########,PA,Delaware,PA Delaware,39.907793,-75.3878525,5,0
+747,########,PA,Monroe,PA Monroe,41.0458376,-75.2479061,1,0
+748,########,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,5,0
+749,########,PA,Philadelphia,PA Philadelphia,39.9525839,-75.1652215,2,0
+750,########,PA,Washington,PA Washington,48.118146,-123.4307413,1,0
+751,########,PR,Puerto Rico,PR Puerto Rico,18.220833,-66.590149,3,0
+752,########,RI,Providence,RI Providence,41.8239891,-71.4128343,9,0
+753,########,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,1,0
+754,########,SD,McCook,SD McCook,43.6310744,-97.3516558,1,0
+755,########,TN,Campbell,TN Campbell,36.3817326,-84.1857115,1,0
+756,########,TN,Davidson,TN Davidson,36.1342563,-86.8220341,4,0
+757,########,TN,Hamilton,TN Hamilton,35.1618966,-85.1479364,1,0
+758,########,TN,Jefferson,TN Jefferson,36.0417825,-83.4643551,1,0
+759,########,TN,Rutherford,TN Rutherford,35.7724263,-86.3376761,1,0
+760,########,TN,Williamson,TN Williamson,35.9179271,-86.8621827,1,0
+761,########,TX,Bell,TX Bell,31.134411,-97.5247243,1,0
+762,########,TX,Bexar,TX Bexar,29.4200763,-98.5721016,1,0
+763,########,TX,Collin,TX Collin,33.1795213,-96.4929797,1,0
+764,########,TX,Dallas,TX Dallas,32.7766642,-96.7969879,1,0
+765,########,TX,El Paso,TX El Paso,31.7618778,-106.4850217,1,0
+766,########,TX,Fort Bend,TX Fort Bend,29.5692614,-95.8142885,3,0
+767,########,TX,Galveston,TX Galveston,29.3013479,-94.7976958,1,0
+768,########,TX,Harris--Houston,TX Harris--Houston,29.7604267,-95.3698028,1,0
+769,########,TX,Lavaca,TX Lavaca,29.3359054,-96.8350999,1,0
+770,########,TX,Smith,TX Smith,32.3352505,-95.3102505,3,0
+771,########,TX,Tarrant,TX Tarrant,32.7732044,-97.3516558,2,0
+772,########,TX,Travis,TX Travis,30.2097015,-97.6982272,3,0
+773,########,UT,Salt Lake,UT Salt Lake,40.7607793,-111.8910474,1,0
+774,########,VA,Arlington,VA Arlington,38.8799697,-77.1067698,3,0
+775,########,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,1,0
+776,########,VA,James City,VA James City,37.3002132,-76.8028933,5,0
+777,########,VA,Loudoun,VA Loudoun,39.076767,-77.6536125,1,0
+778,########,VA,Prince William,VA Prince William,38.7838939,-77.6077865,2,0
+779,########,VI,St. Croix,VI St. Croix,17.7245968,-64.8347992,1,0
+780,########,WA,Clark,WA Clark,47.6332568,-122.3754564,2,0
+781,########,WA,Columbia,WA Columbia,46.2775138,-117.814262,1,0
+782,########,WA,Island,WA Island,48.5513671,-123.0781062,3,0
+783,########,WA,King,WA King,47.5480339,-121.9836029,58,0
+784,########,WA,Kitsap,WA Kitsap,47.6476607,-122.6412583,1,0
+785,########,WA,Pierce,WA Pierce,47.0675877,-122.1295269,2,0
+786,########,WA,Skagit,WA Skagit,48.4241961,-121.7114362,1,0
+787,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,25,0
+788,########,WA,Whatcom,WA Whatcom,48.8787167,-121.9718658,1,0
+789,########,WA,Yakima,WA Yakima,46.6020711,-120.5058987,4,0
+790,########,WI,Dane,WI Dane,43.2505472,-89.5015088,1,0
+791,########,WI,Fond du Lac,WI Fond du Lac,43.7730448,-88.4470508,4,0
+792,########,WI,Milwaukee,WI Milwaukee,43.0389025,-87.9064736,2,0
+793,########,WI,Racine,WI Racine,42.7261309,-87.7828523,1,0
+794,########,WI,Sheboygan,WI Sheboygan,43.7508284,-87.71453,3,0
+795,########,WY,Fremont,WY Fremont,43.0119968,-108.6175626,1,0
+796,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,0,1
+797,########,CO,El Paso,CO El Paso,38.9108325,-104.4723301,0,1
+798,########,FL,Orange,FL Orange,28.4844995,-81.2518833,0,1
+799,########,WA,King,WA King,47.5480339,-121.9836029,0,6
+800,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,0,1
+801,########,AL,Baldwin,AL Baldwin,30.5644083,-87.7159917,1,0
+802,########,AL,Jefferson,AL Jefferson,32.3859585,-87.9017188,5,0
+803,########,AL,Tuscaloosa,AL Tuscaloosa,33.2098407,-87.5691735,1,0
+804,########,AR,Jefferson,AR Jefferson,34.227351,-91.9099238,3,0
+805,########,AZ,Maricopa,AZ Maricopa,33.2917968,-112.4291464,1,0
+806,########,CA,Contra Costa,CA Contra Costa,37.8534093,-121.9017954,9,0
+807,########,CA,Los Angeles,CA Los Angeles,34.0522342,-118.2436849,13,0
+808,########,CA,Marin,CA Marin,38.083403,-122.7633036,2,0
+809,########,CA,Orange,CA Orange,33.7879139,-117.8531007,1,0
+810,########,CA,Placer,CA Placer,39.0915751,-120.8039474,1,0
+811,########,CA,Riverside,CA Riverside,33.9806005,-117.3754942,2,0
+812,########,CA,Sacramento,CA Sacramento,38.5815719,-121.4943996,12,0
+813,########,CA,San Diego,CA San Diego,32.715738,-117.1610838,6,0
+814,########,CA,San Francisco,CA San Francisco,37.7749295,-122.4194155,5,0
+815,########,CA,San Luis Obispo,CA San Luis Obispo,35.2827524,-120.6596156,1,0
+816,########,CA,San Mateo,CA San Mateo,37.5629917,-122.3255254,12,0
+817,########,CA,Santa Clara,CA Santa Clara,37.3541079,-121.9552356,12,0
+818,########,CA,Sonoma,CA Sonoma,38.291859,-122.4580356,2,0
+819,########,CO,Adams,CO Adams,39.8398269,-104.1930918,3,0
+820,########,CO,Arapahoe,CO Arapahoe,39.62031,-104.332644,3,0
+821,########,CO,Boulder,CO Boulder,40.0149856,-105.2705456,1,0
+822,########,CO,Denver,CO Denver,39.7392358,-104.990251,6,0
+823,########,CO,Eagle,CO Eagle,39.6552634,-106.8286507,4,0
+824,########,CO,El Paso,CO El Paso,38.9108325,-104.4723301,1,0
+825,########,CO,Gunnison,CO Gunnison,38.5458246,-106.9253207,2,0
+826,########,CO,Jefferson,CO Jefferson,39.5800298,-105.2662931,2,0
+827,########,CO,Mesa,CO Mesa,39.0808594,-108.5543371,1,0
+828,########,CO,Pitkin,CO Pitkin,38.6091612,-106.5166957,1,0
+829,########,CO,Weld,CO Weld,40.3920718,-104.7158226,1,0
+830,########,CT,Fairfield,CT Fairfield,41.1408363,-73.2612615,7,0
+831,########,CT,New Haven,CT New Haven,41.308274,-72.9278835,4,0
+832,########,DC,District of Columbia,DC District of Columbia,38.9071923,-77.0368707,6,0
+833,########,DE,New Castle,DE New Castle,39.6620397,-75.5668166,2,0
+834,########,Diamond Princess,Sonoma,Diamond Princess Sonoma,38.291859,-122.4580356,1,0
+835,########,FL,Alachua,FL Alachua,29.7938144,-82.4944226,1,0
+836,########,FL,Broward,FL Broward,26.1224386,-80.1373174,13,0
+837,########,FL,Clay,FL Clay,29.9943564,-81.7787021,1,0
+838,########,FL,Collier,FL Collier,26.069985,-81.4278984,1,0
+839,########,FL,Hillsborough,FL Hillsborough,27.9903597,-82.3017728,1,0
+840,########,FL,Manatee,FL Manatee,28.7904427,-82.6131406,2,0
+841,########,FL,Miami-Dade,FL Miami-Dade,25.5516034,-80.6326916,9,0
+842,########,FL,Orange,FL Orange,28.4844995,-81.2518833,1,0
+843,########,FL,Osceola,FL Osceola,28.1019838,-81.0754657,1,0
+844,########,FL,Palm Beach,FL Palm Beach,26.7056206,-80.0364297,3,0
+845,########,FL,Sarasota,FL Sarasota,27.3364347,-82.5306527,1,0
+846,########,FL,Volusia,FL Volusia,29.0279842,-81.0754657,1,0
+847,########,GA,Bartow,GA Bartow,34.2660473,-84.8150781,3,0
+848,########,GA,Cherokee,GA Cherokee,34.2514526,-84.4802606,4,0
+849,########,GA,Clarke,GA Clarke,33.9519347,-83.357567,2,0
+850,########,GA,Cobb,GA Cobb,33.8999297,-84.564147,7,0
+851,########,GA,Coweta,GA Coweta,33.3716708,-84.7315563,1,0
+852,########,GA,DeKalb,GA DeKalb,33.7956441,-84.2278796,3,0
+853,########,GA,Dougherty,GA Dougherty,31.5439375,-84.2278796,6,0
+854,########,GA,Fayette,GA Fayette,33.4502206,-84.4802606,1,0
+855,########,GA,Fulton,GA Fulton,33.8033965,-84.3962535,5,0
+856,########,GA,Henry,GA Henry,33.4347963,-84.1435136,1,0
+857,########,HI,Honolulu,HI Honolulu,21.3069444,-157.8583333,1,0
+858,########,HI,Maui,HI Maui,20.7983626,-156.3319253,1,0
+859,########,IA,Dallas,IA Dallas,32.7821031,-96.7908537,1,0
+860,########,ID,Ada,ID Ada,43.478767,-116.2420304,1,0
+861,########,ID,Blaine,ID Blaine,43.4743428,-113.9664446,2,0
+862,########,ID,Teton,ID Teton,43.7845793,-111.1917625,1,0
+863,########,IL,Cook,IL Cook,41.7376587,-87.697554,10,0
+864,########,IL,Cumberland,IL Cumberland,39.2653533,-88.2071598,1,0
+865,########,IL,DuPage,IL DuPage,41.8243831,-88.0900762,1,0
+866,########,IL,Kane,IL Kane,39.190047,-90.353727,1,0
+867,########,IL,Lake,IL Lake,39.7078813,-89.6016171,1,0
+868,########,IL,Sangamon,IL Sangamon,39.7337353,-89.6251646,2,0
+869,########,IL,St. Clair,IL St. Clair,38.400812,-89.9253233,2,0
+870,########,IL,Woodford,IL Woodford,40.8467007,-89.028132,1,0
+871,########,IN,LaPorte,IN LaPorte,41.611143,-86.7227195,1,0
+872,########,IN,Marion,IN Marion,40.5583739,-85.6591442,1,0
+873,########,IN,Wells,IN Wells,43.3222329,-70.5805209,1,0
+874,########,KS,Franklin,KS Franklin,37.5244779,-94.7049592,1,0
+875,########,KS,Johnson,KS Johnson,38.845412,-94.8520636,1,0
+876,########,KY,Fayette,KY Fayette,38.0606478,-84.4802606,2,0
+877,########,KY,Jefferson,KY Jefferson,38.1938097,-85.643487,1,0
+878,########,KY,Nelson,KY Nelson,37.8291009,-85.4242503,1,0
+879,########,LA,Bossier,LA Bossier,32.7551322,-93.6623239,1,0
+880,########,LA,Caddo,LA Caddo,32.7565316,-93.9737925,1,0
+881,########,LA,Jefferson,LA Jefferson,29.9660371,-90.1531298,8,0
+882,########,LA,Orleans,LA Orleans,29.9510658,-90.0715323,27,0
+883,########,LA,St. Bernard,LA St. Bernard,29.879791,-89.3226954,1,0
+884,########,LA,St. Charles,LA St. Charles,29.9273657,-90.3371889,2,0
+885,########,LA,St. John the Baptist,LA St. John the Baptist,40.2962074,-75.9730377,1,0
+886,########,MA,Barnstable,MA Barnstable,41.7003208,-70.3002024,1,0
+887,########,MA,Bristol,MA Bristol,41.7938406,-71.1448516,1,0
+888,########,MA,Essex,MA Essex,42.6319582,-70.7829315,3,0
+889,########,MA,Middlesex,MA Middlesex,42.467206,-71.2874209,5,0
+890,########,MA,Norfolk,MA Norfolk,42.1195426,-71.3250563,4,0
+891,########,MA,Suffolk,MA Suffolk,42.3522866,-71.0504229,1,0
+892,########,MD,Baltimore City,MD Baltimore City,39.2903848,-76.6121893,1,0
+893,########,MD,Harford,MD Harford,39.5838964,-76.3637285,1,0
+894,########,ME,Cumberland,ME Cumberland,43.796573,-70.2585205,3,0
+895,########,MI,Macomb,MI Macomb,42.7168759,-82.820974,1,0
+896,########,MI,Monroe,MI Monroe,41.9164343,-83.3977101,1,0
+897,########,MI,Oakland,MI Oakland,42.5921924,-83.336188,3,0
+898,########,MI,Washtenaw,MI Washtenaw,42.3076493,-83.8473015,1,0
+899,########,MI,Wayne--Non Detroit,MI Wayne--Non Detroit,42.2996623,-83.0959742,1,0
+900,########,MI,Wayne--Detroit,MI Wayne--Detroit,42.2996623,-83.0959742,1,0
+901,########,MN,Dakota,MN Dakota,44.731554,-93.1779659,1,0
+902,########,MN,Hennepin,MN Hennepin,45.0208911,-93.5094574,3,0
+903,########,MN,Ramsey,MN Ramsey,45.2611,-93.45,1,0
+904,########,MN,Renville,MN Renville,44.7891264,-95.2116731,1,0
+905,########,MN,Stearns,MN Stearns,45.5844792,-94.5865603,1,0
+906,########,MO,Greene,MO Greene,37.3311215,-93.5003454,1,0
+907,########,MT,Missoula,MT Missoula,46.8721284,-113.9940314,2,0
+908,########,NC,Brunswick,NC Brunswick,34.0275398,-78.2020387,1,0
+909,########,NC,Craven,NC Craven,35.0877672,-77.0564464,1,0
+910,########,NC,Harnett,NC Harnett,35.34528,-78.7925,1,0
+911,########,NC,Johnston,NC Johnston,35.4403514,-78.3842227,1,0
+912,########,NC,Mecklenburg,NC Mecklenburg,35.2632655,-80.8543847,1,0
+913,########,NC,Wake,NC Wake,35.8031909,-78.5660852,2,0
+914,########,NE,Douglas,NE Douglas,40.5939437,-96.3877734,2,0
+915,########,NJ,Bergen,NJ Bergen,40.9262762,-74.07701,10,0
+916,########,NJ,Essex,NJ Essex,40.7947466,-74.2648829,4,0
+917,########,NJ,Hudson,NJ Hudson,40.7453199,-74.0535126,1,0
+918,########,NJ,Hunterdon,NJ Hunterdon,40.5669515,-74.9208772,1,0
+919,########,NJ,Middlesex,NJ Middlesex,40.572603,-74.4926541,4,0
+920,########,NM,Bernalillo,NM Bernalillo,35.30004,-106.5511369,1,0
+921,########,NM,Sandoval,NM Sandoval,35.6020667,-106.7234639,2,0
+922,########,NV,Washoe,NV Washoe,40.5608387,-119.6035495,1,0
+923,########,NY,Albany,NY Albany,42.6525793,-73.7562317,5,0
+924,########,NY,Dutchess,NY Dutchess,41.7784372,-73.7477857,1,0
+925,########,NY,Erie,NY Erie,42.9023958,-78.8661589,3,0
+926,########,NY,Monroe,NY Monroe,41.3306493,-74.1868135,1,0
+927,########,NY,Nassau,NY Nassau,40.6546145,-73.5594128,28,0
+928,########,NY,New York,NY New York,40.7127753,-74.0059728,115,0
+929,########,NY,Orange,NY Orange,41.3911653,-74.3118212,3,0
+930,########,NY,Rockland,NY Rockland,41.1489458,-73.9830029,3,0
+931,########,NY,Suffolk,NY Suffolk,40.9848784,-72.6151169,13,0
+932,########,NY,Tioga,NY Tioga,42.1256317,-76.3637285,1,0
+933,########,NY,Tompkins,NY Tompkins,42.4575747,-76.5488232,1,0
+934,########,NY,Westchester,NY Westchester,41.1220194,-73.7948516,20,0
+935,########,OH,Butler,OH Butler,39.440463,-84.5222189,3,0
+936,########,OH,Cuyahoga,OH Cuyahoga,41.433923,-81.67582,5,0
+937,########,OH,Franklin,OH Franklin,39.5589474,-84.3041074,1,0
+938,########,OH,Lorain,OH Lorain,41.452819,-82.1823746,1,0
+939,########,OH,Lucas,OH Lucas,41.6894388,-83.3789389,1,0
+940,########,OH,Stark,OH Stark,40.8684676,-81.2518833,1,0
+941,########,OH,Summit,OH Summit,41.0918991,-81.5596427,1,0
+942,########,OH,Trumbull,OH Trumbull,41.3064984,-80.7214417,1,0
+943,########,OH,Tuscarawas,OH Tuscarawas,40.3947887,-81.4070577,1,0
+944,########,OR,Linn,OR Linn,44.4099768,-122.53401,1,0
+945,########,OR,Washington,OR Washington,47.7510741,-120.7401385,3,0
+946,########,PA,Allegheny,PA Allegheny,40.4450813,-80.0087746,2,0
+947,########,PA,Chester,PA Chester,39.849557,-75.3557457,1,0
+948,########,PA,Montgomery,PA Montgomery,40.2290075,-75.3878525,2,0
+949,########,PA,Philadelphia,PA Philadelphia,39.9525839,-75.1652215,1,0
+950,########,PR,Puerto Rico,PR Puerto Rico,18.220833,-66.590149,1,0
+951,########,SC,Beaufort,SC Beaufort,32.4315813,-80.6698286,3,0
+952,########,SC,Kershaw,SC Kershaw,34.3671762,-80.5882803,2,0
+953,########,SC,Lexington,SC Lexington,33.9815369,-81.2362107,1,0
+954,########,TN,Davidson,TN Davidson,36.1342563,-86.8220341,4,0
+955,########,TN,Williamson,TN Williamson,35.9179271,-86.8621827,1,0
+956,########,TX,Bexar,TX Bexar,29.4200763,-98.5721016,1,0
+957,########,TX,Brazoria,TX Brazoria,29.0444147,-95.5691126,2,0
+958,########,TX,Collin,TX Collin,33.1795213,-96.4929797,2,0
+959,########,TX,Dallas,TX Dallas,32.7766642,-96.7969879,2,0
+960,########,TX,Harris--Houston,TX Harris--Houston,29.7604267,-95.3698028,1,0
+961,########,TX,Hays,TX Hays,30.0537607,-98.0028892,1,0
+962,########,TX,Matagorda,TX Matagorda,28.691133,-95.9682714,1,0
+963,########,TX,Montgomery,TX Montgomery,30.3882613,-95.6963355,1,0
+964,########,TX,Smith,TX Smith,32.3352505,-95.3102505,1,0
+965,########,TX,Tarrant,TX Tarrant,32.7732044,-97.3516558,1,0
+966,########,UT,Davis,UT Davis,41.0711075,-111.9907563,1,0
+967,########,UT,Salt Lake,UT Salt Lake,40.7607793,-111.8910474,11,0
+968,########,UT,Summit,UT Summit,40.8297566,-110.9983515,1,0
+969,########,VA,Arlington,VA Arlington,38.8799697,-77.1067698,2,0
+970,########,VA,Chesterfield,VA Chesterfield,37.3770935,-77.5049863,1,0
+971,########,VA,Fairfax,VA Fairfax,38.8462236,-77.3063733,4,0
+972,########,VA,James City,VA James City,37.3002132,-76.8028933,1,0
+973,########,VA,Loudoun,VA Loudoun,39.076767,-77.6536125,2,0
+974,########,VA,Virginia Beach,VA Virginia Beach,36.8529263,-75.977985,1,0
+975,########,VT,Washington,VT Washington,44.105619,-72.432601,1,0
+976,########,VT,Windsor,VT Windsor,43.4799996,-72.3865679,2,0
+977,########,WA,Grant,WA Grant,47.1981147,-119.3732456,1,0
+978,########,WA,King,WA King,47.5480339,-121.9836029,60,0
+979,########,WA,Pierce,WA Pierce,47.0675877,-122.1295269,7,0
+980,########,WA,Skagit,WA Skagit,48.4241961,-121.7114362,1,0
+981,########,WA,Snohomish,WA Snohomish,47.9128756,-122.0981847,21,0
+982,########,WA,Spokane,WA Spokane,47.6587802,-117.4260465,3,0
+983,########,WA,Thurston,WA Thurston,46.8645747,-122.7695986,2,0
+984,########,WI,Dane,WI Dane,43.2505472,-89.5015088,1,0
+985,########,WI,Milwaukee,WI Milwaukee,43.0389025,-87.9064736,4,0
+986,########,WI,Waukesha,WI Waukesha,43.0116784,-88.2314813,2,0
+987,########,WI,Winnebago,WI Winnebago,44.0758178,-88.5251126,1,0
+988,########,WY,Sheridan,WY Sheridan,44.7971939,-106.9561791,1,0
+989,########,FL,Lee,FL Lee,26.6630286,-81.9534815,0,1
