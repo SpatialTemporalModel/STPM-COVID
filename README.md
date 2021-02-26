@@ -8,7 +8,10 @@ Spatial-Temporal Prediction Models for COVID-19
 **GVN/USF mentors**:
 
 ## Introduction
-Following the first cases of Coronavirus disease 2019 (COVID-19) in Wuhan-China, the Severe Acute Respiratory Coronavirus 2 (SARS-CoV-2) has spread worldwide to over 190 countries or territories. This extremely contagious virus has been responsible for the ongoing pandemic that has claimed over two million lives around the world (). As of February 24th 2021, the US have reported 28,297,193 confirmed cases and 503,777 deaths (). As the COVID-19 pandemic continues, it is imperative to create bioinformatic tools that provide timely spatio-temporal forecast of the number of cases at local, regional and national level as a decision-making tool for public health professionals and state authorities.
+Following the first cases of Coronavirus disease 2019 (COVID-19) in Wuhan-China, the Severe Acute Respiratory Coronavirus 2 (SARS-CoV-2) has spread worldwide to over 190 countries or territories. This extremely contagious virus has been responsible for the ongoing pandemic that has claimed over two million lives around the world (). As of February 24th 2021, the US have reported 28,297,193 confirmed cases and 503,777 deaths. As the COVID-19 pandemic continues, it is imperative to create bioinformatic tools that provide timely forecast of the number of cases at local, regional and national level as a decision-making tool for public health professionals and state authorities.
+
+Incorporating spatial as well as temporal data has been shown to improve the capability of models to forecast epidemiological data in other viruses (Myer and Johnston, 2019). Spatio-temporal models have also shown to allow quick response to change in patterns such as outbreaks. Live prediction of COVID-19 cases based on spatio-temporal data could vastly improve our ability to foresee and respond to changes in case numbers.
+
 ## Objectives
 The aim of this study is to propose a spatiotemporal epidemiological predictive model of COVID-19 infections at local, regional and national level to generate a forecast of COVID-19 daily cases and deaths in the United States of America.
 
@@ -30,3 +33,12 @@ Using a DCRNN network we were able to train a model to closely predict cases in 
 ![Miami Dade Predictions](https://github.com/USFOneHealthCodeathon2021/Team6/blob/main/MD.jpg)
 
 We used this output to generate maps which show potential cases 
+
+## Future Directions
+
+We intend to further our development of this project to improve its utility in case prediction. We plan to: 
+
+1) Finish implementation of other spatio-temporal model types. We have created multiple models in the course of this project which can be tested separately for ideal applications.
+2) Propose a final model which can be added to the CDC forecast website and ensemble model to influence decisions related to COVID-19.
+3) Build a user-friendly GUI to display our predictions at the county and state level. 
+4) Automate the pulling of data, updating of models and display of data. 
