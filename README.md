@@ -24,7 +24,7 @@ Additionally, Diffusion Convolutional Recurrent Neural Network (DCRNN, https://g
 
 ## Results 
 
-###DCRNN performance
+**DCRNN performance**
 
 Using a DCRNN network we were able to train a model to closely predict cases in high-case counties
 
