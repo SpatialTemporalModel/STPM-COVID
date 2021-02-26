@@ -1,7 +1,6 @@
-# Project Name: STPM-COVID 
-Spatial-Temporal Prediction Models for COVID-19 
-
+# Project Name: 
 ![SPTM-COVID Logo](https://github.com/USFOneHealthCodeathon2021/Team6/blob/main/Logo.jpg)
+Spatial-Temporal Prediction Models for COVID-19 
 
 ---
 **Team Leaders**: Awtum Brashear, Jing Lin, Ming Ji 
