@@ -35,6 +35,10 @@ Using a DCRNN network we were able to train a model to closely predict cases in 
 ![Miami Dade Predictions](https://github.com/USFOneHealthCodeathon2021/Team6/blob/main/MD.jpg)
 
 We used this output to generate maps which show potential cases 
+February 24            |  March 3
+:-------------------------:|:-------------------------:
+![Current-day data](https://github.com/USFOneHealthCodeathon2021/Team6/blob/main/Map1.jpg)  |  ![Prediction map](https://github.com/USFOneHealthCodeathon2021/Team6/blob/main/Map_Codeathon.4.jpg)
+
 
 ## Future Directions
 
