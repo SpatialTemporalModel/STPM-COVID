@@ -1,0 +1,41 @@
+
+import os
+
+import mapclassify
+
+
+import pandas as pd
+
+from mapboxgl.utils import create_color_stops, df_to_geojson
+from mapboxgl.viz import CircleViz
+
+
+# Load data from sample csv
+data_url = 'https://raw.githubusercontent.com/USFOneHealthCodeathon2021/Team6/main/samplecase.csv'
+df = pd.read_csv(data_url)
+# Set environment variables
+os.environ['MAP_TOKEN'] = 'pk.eyJ1IjoiY2h1dGtpIiwiYSI6ImNrbG0xNGtmcjA0b2YydW84c3QwYXBtYnoifQ.jVPTcSgsUCmTI0Tn3GC68Q'
+# Must be a public token, starting with `pk`
+token = os.getenv('MAP_TOKEN')
+
+# Create a geojson file export from a Pandas dataframe
+df_to_geojson(df, filename='points1.geojson',
+              properties=['confirmed_count', 'death_count'],
+              lat='Latitude', lon='Longitude', precision=3)
+
+measure = 'confirmed_count'
+color_breaks = [round(df[measure].quantile(q=x*0.1), 2) for x in range(1,9)]
+color_stops = create_color_stops(color_breaks, colors='YlOrRd')
+
+
+# Create the viz from the dataframe
+viz = CircleViz('points1.geojson',
+                access_token=token,
+                height='400px',
+                color_property = "confirmed_count",
+                color_stops = color_stops,
+                center = (-95, 40),
+                zoom = 3,
+                below_layer = 'waterway-label'
+              )
+viz.show()
