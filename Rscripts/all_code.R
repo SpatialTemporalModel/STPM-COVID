@@ -151,7 +151,7 @@ write.csv(fivedayprediction,file="Fivedaysprediction.csv",row.names = FALSE)
 #Map Visualizations.......................
 library(usmap)
 library(ggplot2) #use ggplot2 to add layer for visualization
-#get last 7 days date
+#get last day date
 lastday_data=tail(CasesPop2,51)
 #write.csv(lastWeek_data,file="lastweek.csv")
 lastdaygrp_pop=inner_join(lastday_data, state_pop, by = NULL, copy = FALSE, suffix = c(".x", ".y"))
@@ -159,7 +159,7 @@ lastdaygrp_pop$percapper1000=lastdaygrp_pop$confirmed_total/(lastdaygrp_pop$popu
 colnames(lastdaygrp_pop)=c('date','state','confirmed_total','death_total','population','percapper1000')
 png(file="Lastday.png",
     width=600, height=350)
-#plot graph for average of last 7 days data
+#plot graph for average of last day data
 plot_usmap(data=lastdaygrp_pop,values="percapper1000",color='red')+
   scale_fill_continuous(low="white",high="red",name="Cases per 100,000 residents",label=scales::comma)+labs(title=as.character(lastdaygrp_pop$date));
 dev.off()
@@ -167,6 +167,7 @@ dev.off()
 
 #visualization of predicted data
 nextday_data=tmp3.df[order(tmp3.df$confirmed_date),]
+#get the next day data
 nextday_data=head(nextday_data,51)
 #statePredictedgrpby=tmp3.df %>% group_by(state_name) %>% summarise(predicted_cases=mean(predicted))
 #write.csv(lastWeek_data,file="lastweek.csv")
@@ -176,7 +177,7 @@ colnames(predictedgrp_pop)=c('date','state','confirmed_cases','deaths','populati
                              'state_count','time','time2', 'predicted_cases','percapper1000')
 png(file="Predicted_nextday_average.png",
     width=600, height=350)
-#plot graph for average of last 7 days data
+#plot graph for next day data
 plot_usmap(data=predictedgrp_pop,values="percapper1000",color='red')+
   scale_fill_continuous(low="white",high="red",name="Cases per 100,000 residents",label=scales::comma)+labs(title=as.character(predictedgrp_pop$date))
 dev.off()
